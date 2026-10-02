@@ -9,7 +9,7 @@ abstract: >-
   LASSO-Cox event-free survival signature.
 type: software
 license: MIT
-repository-code: "[TO BE COMPLETED — repository URL]"
+repository-code: "https://github.com/wanglixing-art/OS_matrix_dualKO_code"
 authors:
   - family-names: Wang
     given-names: Lixing
