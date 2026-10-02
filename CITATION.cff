@@ -1,0 +1,62 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the manuscript listed under preferred-citation."
+title: "Analysis code for: Compartmental resolution of matrix-remodelling and proliferation programmes in osteosarcoma"
+abstract: >-
+  Script-based analysis pipeline covering differential expression and WGCNA candidate-pool
+  construction, STRING/cytoHubba hub screening, single-cell compartmental localisation with
+  inferCNV malignancy calling, CellChat communication analysis, parallel dual-gene
+  scTenifoldKnk in silico knockout, and construction and external validation of a 14-gene
+  LASSO-Cox event-free survival signature.
+type: software
+license: MIT
+repository-code: "[TO BE COMPLETED — repository URL]"
+authors:
+  - family-names: Wang
+    given-names: Lixing
+    affiliation: "Department of Gastrointestinal Surgery (Ward II), The Second Affiliated Hospital of Kunming Medical University, Kunming 650101, Yunnan, China"
+    email: "2300240803@qq.com"
+  - family-names: Sun
+    given-names: Ruitong
+    affiliation: "The First Clinical Medical College, Kunming Medical University, Kunming, Yunnan, China"
+  - family-names: Chen
+    given-names: Shi
+    affiliation: "Department of Gastrointestinal Surgery (Ward II), The Second Affiliated Hospital of Kunming Medical University, Kunming, Yunnan, China"
+  - family-names: Cheng
+    given-names: Jie
+    affiliation: "Kunming University of Science and Technology, Kunming, Yunnan, China"
+keywords:
+  - osteosarcoma
+  - single-cell transcriptomics
+  - in silico gene knockout
+  - scTenifoldKnk
+  - prognostic signature
+  - tumour microenvironment
+preferred-citation:
+  type: article
+  title: "Compartmental resolution of matrix-remodelling and proliferation programmes in osteosarcoma: parallel dual-gene in silico knockout and a 14-gene event-free survival score"
+  journal: "Journal of Bone Oncology"
+  year: 2026
+  note: "Submitted for publication. Update this entry with volume, pages and DOI once available."
+  authors:
+    - family-names: Sun
+      given-names: Ruitong
+    - family-names: Chen
+      given-names: Shi
+    - family-names: Cheng
+      given-names: Jie
+    - family-names: Gong
+      given-names: Yun
+    - family-names: Liu
+      given-names: Yunyu
+    - family-names: Xiong
+      given-names: Hang
+    - family-names: Pi
+      given-names: Woxin
+    - family-names: Yin
+      given-names: Changyong
+    - family-names: Wang
+      given-names: Qingyun
+    - family-names: Cheng
+      given-names: Jiao
+    - family-names: Wang
+      given-names: Lixing
